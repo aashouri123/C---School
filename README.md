@@ -1,1 +1,1 @@
-# C---School
+# C-School
